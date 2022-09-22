@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T06:56:04.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="4y81b8PZf3v1p8g70c4R" type="github"><diagram id="EXn5bMktlvTjDYRHP9ps">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-22T11:32:41.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WyM4iiYp2VF1KL4zuLW1" version="20.3.0" type="github">
+  <diagram id="EXn5bMktlvTjDYRHP9ps" name="第 1 页">
+    <mxGraphModel dx="1706" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="690" as="sourcePoint" />
+            <mxPoint x="-660" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="590" as="sourcePoint" />
+            <mxPoint x="-660" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-3" value="标准词库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-4" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-5" value="SKU透图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-6" value="Query候选图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#66B2FF;fillColor=#66B2FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380.37" y="710" as="sourcePoint" />
+            <mxPoint x="-380.37" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-8" value="Query标准图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zz2ldnBrCpz-9CF8s_q-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#66B2FF;fillColor=#66B2FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380.3699999999999" y="610" as="sourcePoint" />
+            <mxPoint x="-380.3699999999999" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
